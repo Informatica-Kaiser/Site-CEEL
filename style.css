@@ -57,12 +57,12 @@ div.textD {
     color: white;
     width: 650px;
     display: inline-block;
-    margin-left: 70px;  
+    margin-left: 50px;  
 }
 
 div.textD > h1 {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 60px;
+    font-size: 50px;
     padding: 20px;
     
 }
@@ -71,7 +71,7 @@ div.textD > p {
     padding: 10px;
 
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 div.textD > img {
